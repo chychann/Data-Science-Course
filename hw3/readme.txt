@@ -1,0 +1,3 @@
+- The training dataset file is located at `./train.pkl`
+- The validation dataset file is located at: `./validation.pkl`
+- The validation dataset file is located at: `./test.pkl`
